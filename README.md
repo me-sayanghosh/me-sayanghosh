@@ -1,14 +1,11 @@
-Hey 👋 I'm Sayan.
- 
-Computer Science undergrad focused on full-stack web development and machine learning.
-Passionate about building end-to-end products — from clean UIs to scalable backends.
- 
-I work primarily with React and Node.js, designing component-driven frontends and RESTful APIs that are maintainable and production-ready.
-I enjoy owning problems from scratch and shipping things that actually work.
- 
-I also practice DSA in C++ regularly, and explore ML using Python — linear/logistic regression, neural networks with Keras, and data analysis with Pandas and Matplotlib.
- 
-This profile contains full-stack projects, algorithm practice, and ML experiments I actively work on.
+Sayan here,
+
+Full-stack developer focused on building clean UIs and scalable backends.
+Currently sharpening DSA in C++ and exploring machine learning with Python.
+
+I enjoy owning problems end-to-end and shipping things that actually work.
+
+This profile contains web projects, algorithm practice, and ML experiments I actively maintain.
  
 ---
  
