@@ -9,7 +9,7 @@ This profile contains web projects, algorithm practice, and ML experiments I act
  
 ---
  
-*Stack*
+##Stack
  
 React · JavaScript · HTML · CSS · Tailwind CSS  
 Node.js · Express.js · MongoDB  
@@ -18,10 +18,13 @@ C++ · Git · VS Code
  
 ---
  
-*About*
+##About
  
 - Full-stack mindset — comfortable across the entire web development pipeline
 - Interested in how machine learning intersects with real-world applications
 - Sharpening DSA skills in C++ — arrays, trees, graphs, dynamic programming
 - Always building something
  
+
+
+📬 mesayanghosh.dev@gmail.com
