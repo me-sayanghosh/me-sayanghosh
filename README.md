@@ -1,67 +1,122 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+```
+███████╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
+███████╗███████║ ╚████╔╝ ███████║██╔██╗ ██║
+╚════██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║
+███████║██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+### `< Full-Stack Developer />` · `{ DSA Enthusiast }` · `[ ML Explorer ]`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F5A0&center=true&vCenter=true&width=500&lines=Building+things+for+the+web+%F0%9F%8C%90;Solving+problems+one+algorithm+at+a+time+%F0%9F%A7%A0;Training+models%2C+not+just+minds+%F0%9F%A4%96)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
+
+## 👾 About Me
+
+```js
+const sayan = {
+  username:   "me-sayanghosh",
+  role:       "Full-Stack Developer",
+  based_in:   "West Bengal, India 🇮🇳",
+  interests:  ["Web Development", "DSA in C++", "Machine Learning"],
+  currently:  "Building cool stuff & sharpening algorithms",
+  ask_me_about: ["React", "Node.js", "MongoDB", "C++ DSA", "ML basics"],
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧠 Data Science & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🧩 DSA & Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=me-sayanghosh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sayanghosh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9" width="48%" />
+
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=me-sayanghosh&theme=dark&hide_border=true&background=0d1117&ring=00f5a0&fire=00f5a0&currStreakLabel=00f5a0" width="60%" />
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🧮 DSA Journey
 
-###
+```cpp
+// C++ | Daily practice | Problem solving mindset
 
-<h3 align="left">👩‍💻  About Me</h3>
+#include <bits/stdc++.h>
+using namespace std;
 
-###
+int main() {
+    string goal = "Master DSA one problem at a time";
+    vector<string> topics = {
+        "Arrays & Strings", "Linked Lists", "Trees & Graphs",
+        "Dynamic Programming", "Greedy", "Backtracking"
+    };
+    for (auto& t : topics) cout << "✔ " << t << "\n";
+    return 0;
+}
+```
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+## 🤖 ML Algorithms I Work With
 
-<h3 align="left">🛠 Language and tools</h3>
+| Algorithm | Type | Library |
+|---|---|---|
+| Linear Regression | Supervised | Scikit-learn / NumPy |
+| Logistic Regression | Supervised | Scikit-learn |
+| Neural Networks | Deep Learning | Keras |
+| Data Analysis | EDA | Pandas + Matplotlib |
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=me-sayanghosh&color=00f5a0&style=for-the-badge&label=PROFILE+VIEWS)
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
